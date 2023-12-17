@@ -1,8 +1,3 @@
-# React + Vite
+Táto filmová appka je postavená na Reacte, na jednoduché a rýchle štýlovanie komponentov používam Tailwind CSS a využívam aj Vite, čo je moderný nástroj, ktorý mi pomáha rýchlo vyvíjať a testovať projekty.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live site: https://anette23.github.io/ReactGirls_MoviesApp/.
